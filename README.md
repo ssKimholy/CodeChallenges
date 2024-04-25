@@ -1,5 +1,10 @@
 # It's HolyKim's Algorithm Learning Record Using Python
 
+## Baekjoon
+https://www.acmicpc.net/user/kwangkorea
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwangkorea)](https://solved.ac/kwangkorea/)
+
 ## Introduction
 Welcome to my Personal Algorithm Learning Record! This repository serves as a central hub for all my exercises and projects related to algorithm practice in Python. My goal is to improve my problem-solving skills and deepen my understanding of various algorithm concepts through consistent practice and documentation.
 
